@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@example.com",
+      "password": "password123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "email": "user@example.com",
+      "password": "password123",
+      "role": "user"
+    },
+    {
+      "id": "3",
+      "email": "guest@example.com",
+      "password": "guest123",
+      "role": "guest"
+    },
+    {
+      "id": "4",
+      "email": "superuser@example.com",
+      "password": "superuser123",
+      "role": "superuser"
+    },
+    {
+      "id": "ebf5",
+      "email": "kaka@example.com",
+      "password": "kaka"
+    },
+    {
+      "id": "faf0",
+      "email": "fati@example.com",
+      "password": "fati"
+    },
+    {
+      "id": "338a",
+      "email": "lala@example.com",
+      "password": "lala"
+    },
+    {
+      "id": "f6a7",
+      "email": "lala@example.com",
+      "password": "lala"
+    },
+    {
+      "id": "d1a1",
+      "email": "zaza@example.com",
+      "password": "zaza"
+    },
+    {
+      "id": "4e71",
+      "email": "userr@example.com",
+      "password": "1234"
+    },
+    {
+      "id": "8bed",
+      "email": "lolo@example.com",
+      "password": "1234"
+    },
+    {
+      "id": "c3ee",
+      "email": "Sarah@example.com",
+      "password": "sarah"
+    }
+  ]
+}
